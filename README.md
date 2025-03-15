@@ -1,2 +1,2 @@
 # ESP32_Code
-一些ESP32的代码
+基于PlatformIO下的arduino框架
